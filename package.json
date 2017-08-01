@@ -1,0 +1,27 @@
+{
+  "name": "weather-app",
+  "version": "0.0.1",
+  "description": "A basic weather application using nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dara-singh/weather-app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "weather",
+    "app"
+  ],
+  "author": "dara-singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dara-singh/weather-app/issues"
+  },
+  "homepage": "https://github.com/dara-singh/weather-app#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
