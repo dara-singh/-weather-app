@@ -1,6 +1,6 @@
 # Weather App (Node.js)
 
-Simple project create using node & google weather API
+Simple project create using React, sails & using google geocode API, weather API
 
 ## Getting Started
 
