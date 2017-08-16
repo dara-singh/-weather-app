@@ -22,6 +22,5 @@
   },
   "homepage": "https://github.com/dara-singh/weather-app#readme",
   "dependencies": {
-    "request": "^2.81.0"
   }
 }
